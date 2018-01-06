@@ -1,0 +1,25 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "blogapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murawat/Mean-Stack-With-Angular-2-Tutorial.git"
+  },
+  "author": "Murawat Sulehri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murawat/Mean-Stack-With-Angular-2-Tutorial/issues"
+  },
+  "homepage": "https://github.com/murawat/Mean-Stack-With-Angular-2-Tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0-rc2"
+  }
+}
